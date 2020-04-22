@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tema2_lfa" targetName="cmake_tema2_lfa" />
+      <config projectName="tema2_lfa" targetName="tema2_lfa" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Default" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24b87846-b74f-4420-867a-d0dff9de3323" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Default" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aj3xpi32nr7J5JclHYbUywV1O4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Default" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tema2_lfa" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="tema2_lfa" RUN_TARGET_NAME="tema2_lfa" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tema2_lfa" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="tema2_lfa" RUN_TARGET_NAME="tema2_lfa" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b87846-b74f-4420-867a-d0dff9de3323" name="Default Changelist" comment="" />
+      <created>1587235425745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587235425745</updated>
+      <workItem from="1587235429397" duration="2172000" />
+      <workItem from="1587298966107" duration="12648000" />
+      <workItem from="1587320904018" duration="3073000" />
+      <workItem from="1587326624509" duration="2950000" />
+      <workItem from="1587329732647" duration="1367000" />
+      <workItem from="1587372541753" duration="30513000" />
+      <workItem from="1587456790155" duration="1282000" />
+      <workItem from="1587463773812" duration="15343000" />
+      <workItem from="1587498350645" duration="10000" />
+      <workItem from="1587498382508" duration="3000" />
+      <workItem from="1587498424055" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="90" key="#cmake_tema2_lfa" timestamp="1587236798147">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="402" y="90" key="#cmake_tema2_lfa/0.0.1366.738@0.0.1366.738" timestamp="1587236798147" />
+    <state x="137" y="9" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587317106445">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="9" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1587317106445" />
+    <state x="417" y="135" key="EnvironmentVariablesDialog" timestamp="1587236204658">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="417" y="135" key="EnvironmentVariablesDialog/0.0.1366.738@0.0.1366.738" timestamp="1587236204658" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1587329468909">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587329468909" />
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom" timestamp="1587483496510">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587483496510" />
+    <state width="1323" height="128" key="GridCell.Tab.0.center" timestamp="1587483496510">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587483496510" />
+    <state width="1323" height="128" key="GridCell.Tab.0.left" timestamp="1587483496509">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587483496509" />
+    <state width="1323" height="128" key="GridCell.Tab.0.right" timestamp="1587483496510">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587483496510" />
+    <state x="184" y="11" width="993" height="716" key="SettingsEditor" timestamp="1587329917357">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" width="993" height="716" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1587329917357" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1587479831183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1587479831183" />
+    <state x="339" y="22" width="672" height="676" key="search.everywhere.popup" timestamp="1587483003507">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="22" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1587483003507" />
+  </component>
+</project>

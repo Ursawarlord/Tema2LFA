@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/SEMESTRUL 2/LFA/tema2/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+set
+-
+type_traits
+-
+algorithm
+-
+queue
+-
+sstream
+-
+utility
+-
+
