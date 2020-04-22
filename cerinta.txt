@@ -1,0 +1,14 @@
+1. Sa existe trei functii separate pentru cele 3 parti ale conversiei.
+
+2. Outputul functiilor sa fie similar cu inputul. Asftfel, sa putem face ceva de genul:
+citeste(automat)
+automat = lnfa_to_nfa(automat)
+automat = nfa_to_dfa(automat)
+automat = dfa_to_dfamin(automat)
+afiseaza(automat)
+
+3. Sa existe o functie de afisare ca sa verificam ca automatul rezultat este ok.
+
+4. Sa compileze.
+
+5. Prezentarile vor fi de in jur 10 minute.
